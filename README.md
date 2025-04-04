@@ -1,6 +1,6 @@
 # msgreader
 
-This version is a fork of https://github.com/HiraokaHyperTools/msgreader ([npmjs.com @kenjiuno/msgreader](https://www.npmjs.com/package/@kenjiuno/msgreader)) and has been optimized for modern browser environments. It completely removes CommonJS dependencies and can be run as an ES6 module directly in the local browser.
+This version is a fork of https://github.com/HiraokaHyperTools/msgreader ([npmjs.com @kenjiuno/msgreader](https://www.npmjs.com/package/@kenjiuno/msgreader)) and has been optimized for modern browser environments to run as an ES6 module directly in the local browser.
 
 [![npm](https://img.shields.io/npm/v/@alisarioglu/msgreader)](https://www.npmjs.com/package/@alisarioglu/msgreader)
 [![Build Status](https://dev.azure.com/HiraokaHyperTools/msgreader/_apis/build/status/HiraokaHyperTools.msgreader?branchName=master)](https://dev.azure.com/HiraokaHyperTools/msgreader/_build/latest?definitionId=7&branchName=master)
