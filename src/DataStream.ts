@@ -1159,6 +1159,7 @@ export default class DataStream {
       if (encoding == null || encoding.toUpperCase() === "ASCII") {
         return DataStream.createStringFromArray(uint8);
       } else {
+      } else {
         const decoder = new TextDecoder(encoding);
         return decoder.decode(uint8);
       }
